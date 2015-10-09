@@ -1,5 +1,5 @@
-# BD9C401EFJ-EVK-101 Design Resource Repository
-* Hardware Design Files and Documentation for the ROHM BD9C401EFJ-EVK-101 EVK
+# BD9C401EFJ-EVK-001 Design Resource Repository
+* Hardware Design Files and Documentation for the ROHM BD9C401EFJ-EVK-001 EVK
 
 ----
 ### Description: 
